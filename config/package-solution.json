@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "carousel-with-sharepoint-client-side-solution",
+    "id": "db2757f9-9a64-4c64-b6f0-ee22ff7a815b",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "carousel-with-sharepoint description"
+      },
+      "longDescription": {
+        "default": "carousel-with-sharepoint description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "carousel-with-sharepoint Feature",
+        "description": "The feature that activates elements of the carousel-with-sharepoint solution.",
+        "id": "4da5e39a-710b-458a-bb31-c9da604dabed",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/carousel-with-sharepoint.sppkg"
+  }
+}

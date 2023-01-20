@@ -1,0 +1,47 @@
+@import '~@fluentui/react/dist/sass/References.scss';
+
+
+.pnpImageCarousel11 {
+  margin: 0 !important;
+  display: grid;
+  .see-all {
+    float: right;
+  }
+  .NewsHeader11 {
+    color: "[theme:bodyText, default: #323130]";
+    font-size: 20px;
+    font-weight: 600;
+    display: inline-block;
+  }
+  .imageURL {
+    height: 338px !important;
+    width: 100% !important;
+    max-width: 790px;
+  }
+  .carouselContent11 {
+    height: 338px !important;
+    width: 100% !important;
+    max-width: 790px;
+  }
+
+  // div[class^="details"] {
+  //   top: 80% !important;
+
+  //   span {
+  //     font-size: 15px !important;
+  //   }
+
+  //   span[class^="title"] {
+  //     font-size: 20px !important;
+  //   }
+  // }
+  
+  .carouselButtonsContainer11 button {
+    min-width: 32px !important;
+    background-color: #6c757d59;
+    color: white;
+    text-align: center;
+  }
+}
+
+

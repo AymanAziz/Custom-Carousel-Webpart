@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.18.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.4.1"
+    },
+    "version": "1.16.0",
+    "libraryName": "carousel-with-sharepoint",
+    "libraryId": "db2757f9-9a64-4c64-b6f0-ee22ff7a815b",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "carousel-with-sharepoint",
+    "solutionShortDescription": "carousel-with-sharepoint description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

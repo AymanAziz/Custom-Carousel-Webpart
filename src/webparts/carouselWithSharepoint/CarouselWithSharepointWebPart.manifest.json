@@ -1,0 +1,26 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "dc3bbc8d-c2f3-490c-bfca-14fa3b302b2d",
+  "alias": "CarouselWithSharepointWebPart",
+  "componentType": "WebPart",
+
+  "version": "*",
+  "manifestVersion": 2,
+
+  
+  "supportsFullBleed": true,
+  "requiresCustomScript": false,
+  "supportedHosts": ["SharePointWebPart", "TeamsPersonalApp", "TeamsTab", "SharePointFullPage"],
+  "supportsThemeVariants": true,
+
+  "preconfiguredEntries": [{
+    "groupId": "5c03119e-3074-46fd-976b-c60198311f70", 
+    "group": { "default": "Advanced" },
+    "title": { "default": "CarouselWithSharepoint" },
+    "description": { "default": "CarouselWithSharepoint description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "CarouselWithSharepoint"
+    }
+  }]
+}
